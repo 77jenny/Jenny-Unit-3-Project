@@ -1,0 +1,94 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+  background-color:#ccc9c7;
+}
+
+.introButton{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  text-align: center;
+}
+
+
+button {
+    height: auto;
+    width: 80px;
+    font-size: 15px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.introImg{display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin: 5px;}
+
+
+.firstButtons {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+img {
+  width: 250px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+h1 {
+    font-size: 40px;
+    color: black;
+}
+
+.oneOptionAnswer{
+  display:none;
+}
+
+.twoOptionAnswer{
+  display:none;
+}
+
+
+.sceneOne{
+   display:none;
+}
+
+.firstOption{
+   display:none;
+}
+
+.secondOption{
+   display:none;
+}
+ 
+.questionTwo{
+   display:none;
+}
+
+.badEnding{
+   display:none;
+}
+
+.optionChoiceThree{
+   display:none;
+}
+
+.answerChoiceOneResult{
+   display:none;
+}
+
+.answerChoiceTwoResult{
+   display:none;
+}
+
+.goodEnding{
+   display:none;
+}
